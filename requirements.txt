@@ -1,0 +1,8 @@
+torch==2.0.0
+torchvision==0.12.1
+numpy==1.24
+torch==1.2.1
+torchvision==0.8
+tqdm==4.65
+pillow==9.4
+kaggle-environments==1.7.11
